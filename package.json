@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "delay": "^4.2.0",
-    "mocha": "^7.0.0"
+    "mocha": "^10.2.0"
   },
   "cloud-repo-tools": {
     "requiresKeyFile": true,
